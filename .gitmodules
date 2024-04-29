@@ -1,3 +1,0 @@
-[submodule "test_submodule_2"]
-	path = test_submodule_2
-	url = https://github.com/Silverlan/test_submodule_2.git
